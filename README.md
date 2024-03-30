@@ -172,7 +172,7 @@ The model has test accuracy of 98.8% and validation accuracy of 92.8%. Further t
 </p>
 <p align="center">
 <a href = "https://github.com/ironnicko"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/nikhil-ivannan-351036201/">
+<a href = "https://www.linkedin.com/in/nikhil-ivannan/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
